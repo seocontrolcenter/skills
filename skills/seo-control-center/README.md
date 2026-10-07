@@ -32,7 +32,14 @@ An AI assistant skill that teaches Claude (and other skill-aware assistants) how
 
 ## Install
 
-Claude Code:
+Claude Code, as a plugin from this repository:
+
+```
+/plugin marketplace add seocontrolcenter/skills
+/plugin install seo-control-center@seocontrolcenter-skills
+```
+
+Or manually:
 
 ```
 mkdir -p ~/.claude/skills/seo-control-center
@@ -45,3 +52,7 @@ Replace `{APP}` with your SCC address. Never paste the token into chat.
 ## Safety
 
 MCP is read-only and never spends money. The skill requires an explicit "yes" before any save, audit, paid lookup, or website edit.
+
+## License
+
+The skill is free to use, copy, modify and share under the MIT License (see `LICENSE.txt`). This covers the skill files only. The SEO Control Center software itself is proprietary and is sold under a separate license; the skill needs a licensed SCC installation to be useful.

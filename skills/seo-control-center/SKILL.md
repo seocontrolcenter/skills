@@ -1,6 +1,7 @@
 ---
 name: seo-control-center
 description: Use SEO Control Center (SCC), the client's self-hosted SEO dashboard, properly. Read SEO data through the connected MCP server (search performance, pages, keywords, rankings, competitors, backlinks, AI visibility, local SEO, site audit, opportunities, team tasks, content briefs, indexing, change timeline and change impact). Drive the dashboard in the browser to record timeline changes, manage tasks and briefs, and fix issues on the client's own website. Use when the user mentions SCC, SEO Control Center, their SEO dashboard, SEO reports, the SEO change timeline, opportunities, a site audit, or asks "what should I fix on my site".
+license: Complete terms in LICENSE.txt
 ---
 
 # SEO Control Center: skill for AI assistants

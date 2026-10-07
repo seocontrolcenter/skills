@@ -1,0 +1,21 @@
+{
+  "name": "seocontrolcenter-skills",
+  "owner": {
+    "name": "SEO Control Center"
+  },
+  "metadata": {
+    "description": "SEO Control Center skills for AI assistants",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "seo-control-center",
+      "description": "Use SEO Control Center (SCC) through its MCP server and dashboard: read SEO data, record timeline changes, manage tasks and briefs, and fix site issues.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/seo-control-center"
+      ]
+    }
+  ]
+}
