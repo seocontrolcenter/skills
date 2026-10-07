@@ -1,0 +1,9 @@
+{
+  "name": "seo-control-center",
+  "description": "Use SEO Control Center (SCC) through its MCP server and dashboard: read SEO data, record timeline changes, manage tasks and briefs, and fix site issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SEO Control Center"
+  },
+  "license": "MIT"
+}
