@@ -1,5 +1,5 @@
 # skills
-SEO Control Center Skills for AI
+SEO Control Center Skills for AI - seocc.net
 
 ## Skills
 
